@@ -2,7 +2,7 @@ Created By APTOTIC
 
 WinPhish
 ============
-A Simple Windows Form That Writes Typed Password to txt file
+A Simple Windows Form Project That Writes Typed Password to txt file
 In The C Drive under "C:\TmpFls\tmps.txt"
 
 The Installation Path Is "C:\TmpFls"
